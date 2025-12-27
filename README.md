@@ -9,7 +9,7 @@ A **Test Pattern Generator (TPG)** provides the video input, which is streamed t
 
 ## AXI Video Pipeline Architecture
 
-![Block Diagram](./Media/Block%20Diagram.png)
+![Block Diagram](FPGA-Edge-Detector-with-AXI-Video-Pipeline/Media/Block%20Diagram.png)
 
 ### Video Processing Flow
 
