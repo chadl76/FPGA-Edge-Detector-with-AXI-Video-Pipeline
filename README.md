@@ -41,7 +41,6 @@ The Sobel edge detector is implemented as a **custom AXI4-Stream IP core**.
 A Verilog testbench was used to verify:
 - Sobel filter correctness
 - AXI4-Stream handshaking
-- Frame boundary handling
 - Continuous streaming without data loss
 
 ---
@@ -54,10 +53,9 @@ Resource usage obtained from the Vivado implementation report:
 
 | Resource | Usage |
 |--------|-------|
-| LUTs   | TBD   |
-| FFs    | TBD   |
-| BRAM   | TBD   |
-| DSPs   | TBD   |
+| LUTs   | 5717   |
+| FFs    | 8872   |
+| BRAM   | 3   |
 
 ---
 
