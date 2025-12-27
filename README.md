@@ -22,7 +22,7 @@ A **Test Pattern Generator (TPG)** provides the video input, which is streamed t
 
 ## Sobel Edge Detector
 
-![Sobel Filter](Media/Sobel%20Filter.png)
+![Sobel Filter](Media/Sobel%20Filter.PNG)
 
 The Sobel edge detector is implemented as a **custom AXI4-Stream IP core**.
 
