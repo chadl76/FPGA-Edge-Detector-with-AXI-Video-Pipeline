@@ -73,5 +73,3 @@ The output demonstrates **real-time edge detection**, with edges clearly highlig
 
 ---
 
-## License
-MIT License
